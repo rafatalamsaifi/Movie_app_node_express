@@ -1,0 +1,763 @@
+[
+  {
+    "budget": 200000000,
+    "genres": ["Action", "Science Fiction"],
+    "homepage": "https://www.godzillavskong.net",
+    "original_language": "English",
+    "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+    "popularity": 10755.513,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+    "release_date": "2021-03-24",
+    "revenue": 298573106,
+    "runtime": 113,
+    "tagline": "One Will Fall",
+    "title": "Godzilla vs. Kong",
+    "vote_average": 8.4,
+    "vote_count": 4108,
+    "external_ids": {
+      "imdb_id": "tt5034838",
+      "facebook_id": "GodzillaVsKong",
+      "instagram_id": "godzillavskong",
+      "twitter_id": "GodzillavsKong"
+    },
+    "certification": "PG-13",
+    "directors": [{ "id": 98631, "name": "Adam Wingard" }],
+    "writers": [
+      { "id": 1706, "name": "Terry Rossio" },
+      { "id": 11012, "name": "Michael Dougherty" },
+      { "id": 579281, "name": "Eric Pearson" },
+      { "id": 1080778, "name": "Max Borenstein" },
+      { "id": 1443683, "name": "Zach Shields" }
+    ],
+    "cast": [
+      { "id": 28846, "name": "Alexander Skarsgård" },
+      { "id": 1356210, "name": "Millie Bobby Brown" },
+      { "id": 15556, "name": "Rebecca Hall" }
+    ],
+    "trailer_yt": "odM92ap8_c0",
+    "movie_id": 399566
+  },
+  {
+    "budget": 70000000,
+    "genres": ["Action", "Adventure", "Fantasy", "Science Fiction"],
+    "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
+    "original_language": "English",
+    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "popularity": 4066.664,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "release_date": "2021-03-18",
+    "runtime": 242,
+    "tagline": "",
+    "title": "Zack Snyder's Justice League",
+    "vote_average": 8.6,
+    "vote_count": 4740,
+    "external_ids": {
+      "imdb_id": "tt12361974",
+      "facebook_id": "thesnydercut",
+      "instagram_id": "snydercut",
+      "twitter_id": "snydercut"
+    },
+    "certification": "R",
+    "directors": [{ "id": 15217, "name": "Zack Snyder" }],
+    "writers": [
+      { "id": 3794, "name": "Bob Kane" },
+      { "id": 15217, "name": "Zack Snyder" },
+      { "id": 18866, "name": "Jack Kirby" },
+      { "id": 20007, "name": "Jerry Siegel" },
+      { "id": 20008, "name": "Joe Shuster" },
+      { "id": 131680, "name": "Chris Terrio" },
+      { "id": 198034, "name": "Bill Finger" },
+      { "id": 466391, "name": "Will Beall" },
+      { "id": 1236448, "name": "William Moulton Marston" },
+      { "id": 1368162, "name": "Gardner Fox" }
+    ],
+    "cast": [
+      { "id": 880, "name": "Ben Affleck" },
+      { "id": 73968, "name": "Henry Cavill" },
+      { "id": 90633, "name": "Gal Gadot" }
+    ],
+    "trailer_yt": "vM-Bja2Gy04",
+    "movie_id": 791373
+  },
+  {
+    "budget": 125000000,
+    "genres": ["Science Fiction", "Action", "Adventure", "Thriller"],
+    "homepage": "https://chaoswalking.movie",
+    "original_language": "English",
+    "overview": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.",
+    "popularity": 2919.395,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg",
+    "release_date": "2021-02-24",
+    "runtime": 109,
+    "tagline": "No one escapes the noise.",
+    "title": "Chaos Walking",
+    "vote_average": 7.5,
+    "vote_count": 287,
+    "external_ids": {
+      "imdb_id": "tt2076822",
+      "facebook_id": "ChaosWalkingMovie",
+      "instagram_id": "chaoswalking",
+      "twitter_id": "ChaosWalking"
+    },
+    "certification": "PG-13",
+    "directors": [{ "id": 11694, "name": "Doug Liman" }],
+    "writers": [
+      { "id": 101814, "name": "Christopher D. Ford" },
+      { "id": 1299057, "name": "Patrick Ness" }
+    ],
+    "cast": [
+      { "id": 1315036, "name": "Daisy Ridley" },
+      { "id": 1136406, "name": "Tom Holland" },
+      { "id": 1019, "name": "Mads Mikkelsen" }
+    ],
+    "trailer_yt": "nRf4ZgzHoVw",
+    "movie_id": 412656
+  },
+  {
+    "genres": ["Animation", "Adventure", "Fantasy", "Family", "Action"],
+    "homepage": "https://movies.disney.com/raya-and-the-last-dragon",
+    "original_language": "English",
+    "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+    "popularity": 2064.45,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+    "release_date": "2021-03-03",
+    "revenue": 56482606,
+    "runtime": 107,
+    "tagline": "A quest to save her world.",
+    "title": "Raya and the Last Dragon",
+    "vote_average": 8.3,
+    "vote_count": 2176,
+    "external_ids": {
+      "imdb_id": "tt5109280",
+      "facebook_id": "rayaandthelastdragon",
+      "instagram_id": "disneyraya",
+      "twitter_id": "DisneyRaya"
+    },
+    "certification": "PG",
+    "directors": [
+      { "id": 227439, "name": "Don Hall" },
+      { "id": 1932178, "name": "Carlos López Estrada" }
+    ],
+    "writers": [
+      { "id": 227439, "name": "Don Hall" },
+      { "id": 1117779, "name": "Kiel Murray" },
+      { "id": 1215038, "name": "Adele Lim" },
+      { "id": 1340669, "name": "Paul Briggs" },
+      { "id": 1459476, "name": "Dean Wellins" },
+      { "id": 1822324, "name": "Qui Nguyen" },
+      { "id": 1932178, "name": "Carlos López Estrada" },
+      { "id": 1995178, "name": "John Ripa" },
+      { "id": 2375591, "name": "Fawn Veerasunthorn" }
+    ],
+    "cast": [
+      { "id": 1663195, "name": "Kelly Marie Tran" },
+      { "id": 1625558, "name": "Awkwafina" },
+      { "id": 2362044, "name": "Izaac Wang" }
+    ],
+    "trailer_yt": "9BPMTr-NS9s",
+    "movie_id": 527774
+  },
+  {
+    "budget": 50000000,
+    "genres": ["Comedy", "Family", "Animation"],
+    "homepage": "https://www.tomandjerrymovie.com",
+    "original_language": "English",
+    "overview": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+    "popularity": 1454.107,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6KErczPBROQty7QoIsaa6wJYXZi.jpg",
+    "release_date": "2021-02-11",
+    "revenue": 66890000,
+    "runtime": 101,
+    "tagline": "Best of enemies. Worst of friends.",
+    "title": "Tom & Jerry",
+    "vote_average": 7.3,
+    "vote_count": 1157,
+    "external_ids": {
+      "imdb_id": "tt1361336",
+      "facebook_id": "TomandJerry",
+      "instagram_id": "tomandjerry",
+      "twitter_id": "TomAndJerry"
+    },
+    "certification": "PG",
+    "directors": [{ "id": 20400, "name": "Tim Story" }],
+    "writers": [
+      { "id": 13594, "name": "Joseph Barbera" },
+      { "id": 13620, "name": "William Hanna" },
+      { "id": 1640647, "name": "Kevin Costello" }
+    ],
+    "cast": [
+      { "id": 56734, "name": "Chloë Grace Moretz" },
+      { "id": 454, "name": "Michael Peña" },
+      { "id": 1226277, "name": "Colin Jost" }
+    ],
+    "trailer_yt": "kP9TfCWaQT4",
+    "movie_id": 587807
+  },
+  {
+    "budget": 40000000,
+    "genres": ["Crime", "Drama"],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.40gvwq6hnbilmnxuutvmejx4r",
+    "original_language": "English",
+    "overview": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+    "popularity": 1427.104,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+    "release_date": "2021-02-26",
+    "runtime": 140,
+    "tagline": "Life leaves a mark.",
+    "title": "Cherry",
+    "vote_average": 7.6,
+    "vote_count": 484,
+    "external_ids": { "imdb_id": "tt9130508" },
+    "certification": "R",
+    "directors": [
+      { "id": 19271, "name": "Anthony Russo" },
+      { "id": 19272, "name": "Joe Russo" }
+    ],
+    "writers": [
+      { "id": 1110909, "name": "Jessica Goldberg" },
+      { "id": 1751775, "name": "Angela Russo-Otstot" },
+      { "id": 2114506, "name": "Nico Walker" }
+    ],
+    "cast": [
+      { "id": 1136406, "name": "Tom Holland" },
+      { "id": 144216, "name": "Ciara Bravo" },
+      { "id": 1007683, "name": "Jack Reynor" }
+    ],
+    "trailer_yt": "H5bH6O0bErk",
+    "movie_id": 544401
+  },
+  {
+    "genres": ["Animation", "Action", "Fantasy"],
+    "homepage": "https://www.warnerbros.com/movies/mortal-kombat-legends-scorpions-revenge",
+    "original_language": "English",
+    "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+    "popularity": 878.696,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+    "release_date": "2020-04-12",
+    "runtime": 80,
+    "tagline": "",
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "vote_average": 8.4,
+    "vote_count": 828,
+    "external_ids": { "imdb_id": "tt9580138" },
+    "certification": "R",
+    "directors": [{ "id": 204553, "name": "Ethan Spaulding" }],
+    "writers": [{ "id": 1674791, "name": "Jeremy Adams" }],
+    "cast": [
+      { "id": 939345, "name": "Patrick Seitz" },
+      { "id": 1231115, "name": "Jordan Rodrigues" },
+      { "id": 53828, "name": "Jennifer Carpenter" }
+    ],
+    "trailer_yt": "I1vccr3yWBU",
+    "movie_id": 664767
+  },
+  {
+    "budget": 65000000,
+    "genres": ["Family", "Fantasy", "Animation", "Comedy"],
+    "homepage": "https://www.dreamworks.com/movies/the-croods-2",
+    "original_language": "English",
+    "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+    "popularity": 907.472,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+    "release_date": "2020-11-25",
+    "revenue": 135076090,
+    "runtime": 95,
+    "tagline": "The future ain't what it used to be.",
+    "title": "The Croods: A New Age",
+    "vote_average": 7.5,
+    "vote_count": 1930,
+    "external_ids": {
+      "imdb_id": "tt2850386",
+      "facebook_id": "TheCroods",
+      "instagram_id": "TheCroods",
+      "twitter_id": "TheCroods"
+    },
+    "certification": "PG",
+    "directors": [{ "id": 1450348, "name": "Joel Crawford" }],
+    "writers": [
+      { "id": 8930, "name": "John Cleese" },
+      { "id": 66193, "name": "Chris Sanders" },
+      { "id": 71267, "name": "Kirk DeMicco" },
+      { "id": 934181, "name": "Paul Fisher" },
+      { "id": 1003944, "name": "Dan Hageman" },
+      { "id": 1003945, "name": "Kevin Hageman" },
+      { "id": 1767030, "name": "Bob Logan" }
+    ],
+    "cast": [
+      { "id": 2963, "name": "Nicolas Cage" },
+      { "id": 54693, "name": "Emma Stone" },
+      { "id": 10859, "name": "Ryan Reynolds" }
+    ],
+    "trailer_yt": "GkXeVIfbJOw",
+    "movie_id": 529203
+  },
+  {
+    "genres": ["Animation", "Family"],
+    "original_language": "French",
+    "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
+    "popularity": 886.238,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIHgjAkuzvKBnmdstpBOo4AfZah.jpg",
+    "release_date": "2020-09-26",
+    "runtime": 55,
+    "tagline": "NEW CITY. SAME DUTY.",
+    "title": "Miraculous World: New York, United HeroeZ",
+    "vote_average": 8.3,
+    "vote_count": 611,
+    "external_ids": { "imdb_id": "tt12816348" },
+    "certification": "NR",
+    "directors": [{ "id": 1565301, "name": "Thomas Astruc" }],
+    "writers": [
+      { "id": 1163095, "name": "Sébastien Thibaudeau" },
+      { "id": 1565301, "name": "Thomas Astruc" },
+      { "id": 2848194, "name": "Matthieu Choquet" },
+      { "id": 2848195, "name": "Fred Lenoir" }
+    ],
+    "cast": [
+      { "id": 1762588, "name": "Anouck Hautbois" },
+      { "id": 2952757, "name": "Benjamin Boullen" }
+    ],
+    "movie_id": 755812
+  },
+  {
+    "budget": 150000000,
+    "genres": ["Family", "Animation", "Comedy", "Drama", "Music", "Fantasy"],
+    "homepage": "https://movies.disney.com/soul",
+    "original_language": "English",
+    "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+    "popularity": 631.205,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2NNebYVf8XAbJzVZTM3razRaZKA.jpg",
+    "release_date": "2020-12-25",
+    "revenue": 57400000,
+    "runtime": 101,
+    "tagline": "Is all this living really worth dying for?",
+    "title": "Soul",
+    "vote_average": 8.3,
+    "vote_count": 5638,
+    "external_ids": {
+      "imdb_id": "tt2948372",
+      "facebook_id": "pixarsoul",
+      "instagram_id": "pixarsoul",
+      "twitter_id": "PixarSoul"
+    },
+    "certification": "PG",
+    "directors": [
+      { "id": 12890, "name": "Pete Docter" },
+      { "id": 2451598, "name": "Kemp Powers" }
+    ],
+    "writers": [
+      { "id": 12890, "name": "Pete Docter" },
+      { "id": 1348911, "name": "Michael Yates" },
+      { "id": 2451598, "name": "Kemp Powers" },
+      { "id": 2808625, "name": "Mike Jones" }
+    ],
+    "cast": [
+      { "id": 134, "name": "Jamie Foxx" },
+      { "id": 56323, "name": "Tina Fey" },
+      { "id": 4719, "name": "Ahmir-Khalib Thompson" }
+    ],
+    "trailer_yt": "xOsLIiBStEs",
+    "movie_id": 508442
+  },
+  {
+    "budget": 90000000,
+    "genres": ["Thriller", "Action", "Crime"],
+    "homepage": "https://www.badboysforlife.movie/",
+    "original_language": "English",
+    "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+    "popularity": 519.767,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+    "release_date": "2020-01-15",
+    "revenue": 426505244,
+    "runtime": 124,
+    "tagline": "Ride together. Die together.",
+    "title": "Bad Boys for Life",
+    "vote_average": 7.2,
+    "vote_count": 6163,
+    "external_ids": {
+      "imdb_id": "tt1502397",
+      "facebook_id": "BadBoysMovie",
+      "instagram_id": "badboys",
+      "twitter_id": "BadBoys"
+    },
+    "certification": "R",
+    "directors": [
+      { "id": 1399841, "name": "Adil El Arbi" },
+      { "id": 1399842, "name": "Bilall Fallah" }
+    ],
+    "writers": [
+      { "id": 21792, "name": "George Gallo" },
+      { "id": 40223, "name": "Joe Carnahan" },
+      { "id": 225633, "name": "Peter Craig" },
+      { "id": 1986351, "name": "Chris Bremner" }
+    ],
+    "cast": [
+      { "id": 2888, "name": "Will Smith" },
+      { "id": 78029, "name": "Martin Lawrence" },
+      { "id": 544442, "name": "Paola Nuñez" }
+    ],
+    "trailer_yt": "jKCj3XuPG8M",
+    "movie_id": 38700
+  },
+  {
+    "budget": 205000000,
+    "genres": ["Action", "Thriller", "Science Fiction"],
+    "homepage": "https://www.tenetfilm.com/",
+    "original_language": "English",
+    "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "popularity": 522.048,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+    "release_date": "2020-08-22",
+    "revenue": 363129000,
+    "runtime": 150,
+    "tagline": "Time runs out.",
+    "title": "Tenet",
+    "vote_average": 7.3,
+    "vote_count": 4955,
+    "external_ids": {
+      "imdb_id": "tt6723592",
+      "facebook_id": "tenetfilm",
+      "instagram_id": "tenetfilm",
+      "twitter_id": "TENETFilm"
+    },
+    "certification": "PG-13",
+    "directors": [{ "id": 525, "name": "Christopher Nolan" }],
+    "writers": [{ "id": 525, "name": "Christopher Nolan" }],
+    "cast": [
+      { "id": 1117313, "name": "John David Washington" },
+      { "id": 11288, "name": "Robert Pattinson" },
+      { "id": 1133349, "name": "Elizabeth Debicki" }
+    ],
+    "trailer_yt": "LdOM0x0XDMo",
+    "movie_id": 577922
+  },
+  {
+    "genres": ["Comedy", "Thriller", "Crime"],
+    "original_language": "Spanish",
+    "overview": "In 2006, a group of thieves performed what is considered one of the most famous and smart bank heists in the history of Argentina. How they robbed the Rio bank is as surprising as what happened afterwards. This is their story.",
+    "popularity": 491.432,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aSGwXbaTMxUhrfXT6xyZKqoklfB.jpg",
+    "release_date": "2020-01-16",
+    "runtime": 114,
+    "tagline": "The Story Of The Theft That Made History",
+    "title": "The Heist of the Century",
+    "vote_average": 7.9,
+    "vote_count": 478,
+    "external_ids": { "imdb_id": "tt10948718" },
+    "directors": [{ "id": 567536, "name": "Ariel Winograd" }],
+    "writers": [
+      { "id": 69318, "name": "Alex Zito" },
+      { "id": 2408835, "name": "Rodolfo Palacios" },
+      { "id": 2564217, "name": "Fernando Araujo" }
+    ],
+    "cast": [
+      { "id": 93650, "name": "Guillermo Francella" },
+      { "id": 96429, "name": "Diego Peretti" },
+      { "id": 103431, "name": "Luis Luque" }
+    ],
+    "trailer_yt": "u3rtVNSC-FU",
+    "movie_id": 609242
+  },
+  {
+    "genres": ["Romance", "Drama"],
+    "original_language": "English",
+    "overview": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+    "popularity": 467.742,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+    "release_date": "2020-09-02",
+    "revenue": 42000000,
+    "runtime": 105,
+    "tagline": "Can love overcome the past?",
+    "title": "After We Collided",
+    "vote_average": 7.3,
+    "vote_count": 3590,
+    "external_ids": {
+      "imdb_id": "tt10362466",
+      "facebook_id": "AfterSeriesMovies",
+      "instagram_id": "aftermovie",
+      "twitter_id": "aftermovie"
+    },
+    "certification": "R",
+    "directors": [{ "id": 11873, "name": "Roger Kumble" }],
+    "writers": [
+      { "id": 1664826, "name": "Anna Todd" },
+      { "id": 2540911, "name": "Mario Celya" }
+    ],
+    "cast": [
+      { "id": 1753914, "name": "Josephine Langford" },
+      { "id": 1114487, "name": "Hero Fiennes Tiffin" },
+      { "id": 1684130, "name": "Shane Paul McGhie" }
+    ],
+    "trailer_yt": "2SvwX3ux_-8",
+    "movie_id": 613504
+  },
+  {
+    "genres": ["Comedy", "Drama"],
+    "original_language": "Italian",
+    "overview": "Nanni Moretti recalls in his diary three slice of life stories characterized by a sharply ironic look: in the first one he wanders through a deserted Rome, in the second he visits a reclusive friend on an island, and in the last he has to grapple with an unknown illness.",
+    "popularity": 7.528,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rAjbgSUvZDoy5jPbC5jD6pWvlyZ.jpg",
+    "release_date": "1993-10-12",
+    "runtime": 100,
+    "tagline": "",
+    "title": "Caro diario",
+    "vote_average": 7.5,
+    "vote_count": 244,
+    "external_ids": { "imdb_id": "tt0109382" },
+    "certification": "T",
+    "directors": [{ "id": 69488, "name": "Nanni Moretti" }],
+    "writers": [{ "id": 69488, "name": "Nanni Moretti" }],
+    "cast": [
+      { "id": 69488, "name": "Nanni Moretti" },
+      { "id": 35104, "name": "Renato Carpentieri" },
+      { "id": 93730, "name": "Antonio Neiwiller" }
+    ],
+    "trailer_yt": "nx-auL6YHs8",
+    "movie_id": 25403
+  },
+  {
+    "genres": "Comedy",
+    "original_language": "Italian",
+    "overview": "Friends and aspiring actors Aldo, Giovanni, and Giacomo work dead-end jobs – as extra in operas, living statue at a department store, and voice actor for bit parts, respectively – while focusing on their passion project: staging an adaptation of 'Cyrano de Bergerac'. However, love for the same woman will end their friendship. Three years later, Giovanni and Giacomo reunite to travel from Milan to Sicily after hearing that Aldo is dying.",
+    "popularity": 6.374,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qCBmNunSpKRlPyjOZXbqTN1usTH.jpg",
+    "release_date": "2000-12-15",
+    "runtime": 100,
+    "tagline": "",
+    "title": "Ask Me If I Am Happy",
+    "vote_average": 7.7,
+    "vote_count": 1301,
+    "external_ids": { "imdb_id": "tt0252985" },
+    "certification": "T",
+    "directors": [
+      { "id": 120018, "name": "Massimo Venier" },
+      { "id": 120019, "name": "Aldo Baglio" },
+      { "id": 120020, "name": "Giovanni Storti" },
+      { "id": 120025, "name": "Giacomo Poretti" }
+    ],
+    "writers": [
+      { "id": 120018, "name": "Massimo Venier" },
+      { "id": 120019, "name": "Aldo Baglio" },
+      { "id": 120020, "name": "Giovanni Storti" },
+      { "id": 120025, "name": "Giacomo Poretti" },
+      { "id": 1933378, "name": "Walter Fontana" },
+      { "id": 1933379, "name": "Paolo Cananzi" },
+      { "id": 3001961, "name": "Graziano Ferrari" }
+    ],
+    "cast": [
+      { "id": 120019, "name": "Aldo Baglio" },
+      { "id": 120020, "name": "Giovanni Storti" },
+      { "id": 120025, "name": "Giacomo Poretti" }
+    ],
+    "movie_id": 50531
+  },
+  {
+    "genres": "Drama",
+    "homepage": "https://www.facebook.com/boysthefilm",
+    "original_language": "Dutch",
+    "overview": "Two teen track stars discover first love as they train for the biggest relay race of their young lives.",
+    "popularity": 6.338,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/khyK1mS3PoZ9q97VQ2BvR4YuNKN.jpg",
+    "release_date": "2014-01-08",
+    "runtime": 78,
+    "tagline": "How does it feel to win a race when you know you lost a love?",
+    "title": "Boys",
+    "vote_average": 7.6,
+    "vote_count": 476,
+    "external_ids": { "imdb_id": "tt3318220" },
+    "certification": "0",
+    "directors": [{ "id": 143014, "name": "Mischa Kamp" }],
+    "writers": [
+      { "id": 1267108, "name": "Jaap-Peter Enderle" },
+      { "id": 1280695, "name": "Chris Westendorp" }
+    ],
+    "cast": [
+      { "id": 1279249, "name": "Gijs Blom" },
+      { "id": 934393, "name": "Ko Zandvliet" },
+      { "id": 1279250, "name": "Jonas Smulders" }
+    ],
+    "trailer_yt": "Nn8rVEFurBE",
+    "movie_id": 244063
+  },
+  {
+    "budget": 12902809,
+    "genres": ["Action", "History", "Drama"],
+    "homepage": "http://www.ipman2-movie.com/",
+    "original_language": "Cantonese",
+    "overview": "Having defeated the best fighters of the Imperial Japanese army in occupied Shanghai, Ip Man and his family settle in post-war Hong Kong. Struggling to make a living, Master Ip opens a kung fu school to bring his celebrated art of Wing Chun to the troubled youth of Hong Kong. His growing reputation soon brings challenges from powerful enemies, including pre-eminent Hung Gar master, Hung Quan.",
+    "popularity": 6.305,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5FCY2ueDzU6b39byAGb3NRvr0zG.jpg",
+    "release_date": "2010-04-21",
+    "revenue": 36000000,
+    "runtime": 108,
+    "tagline": "Behind every great martial artist lies a teacher.",
+    "title": "Ip Man 2",
+    "vote_average": 7.4,
+    "vote_count": 1551,
+    "external_ids": { "imdb_id": "tt1386932" },
+    "certification": "R",
+    "directors": [{ "id": 63571, "name": "Wilson Yip" }],
+    "writers": [{ "id": 77703, "name": "Edmond Wong" }],
+    "cast": [
+      { "id": 1341, "name": "Donnie Yen" },
+      { "id": 62410, "name": "Sammo Hung" },
+      { "id": 20519, "name": "Simon Yam" }
+    ],
+    "trailer_yt": "gaBdgu00otE",
+    "movie_id": 37472
+  },
+  {
+    "genres": ["Family", "Fantasy", "Animation"],
+    "homepage": "https://www.pixar.com/lou",
+    "original_language": "English",
+    "overview": "A Pixar short about a lost-and-found box and the unseen monster within.",
+    "popularity": 6.25,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zAQmOmQPWyvU34B3gcK163P4jmH.jpg",
+    "release_date": "2017-06-16",
+    "runtime": 6,
+    "tagline": "",
+    "title": "Lou",
+    "vote_average": 7.7,
+    "vote_count": 253,
+    "external_ids": { "imdb_id": "tt6267732" },
+    "certification": "G",
+    "directors": [{ "id": 8046, "name": "Dave Mullins" }],
+    "writers": [{ "id": 8046, "name": "Dave Mullins" }],
+    "cast": [],
+    "trailer_yt": "0iYsBnj2BUk",
+    "movie_id": 433471
+  },
+  {
+    "genres": "Drama",
+    "original_language": "Italian",
+    "overview": "After years spent working as a prostitute in her Italian village, middle-aged Mamma Roma has saved enough money to buy herself a fruit stand so that she can have a respectable middle-class life and reestablish contact with the 16-year-old son she abandoned when he was an infant. But her former pimp threatens to expose her sordid past, and her troubled son seems destined to fall into a life of crime and violence.",
+    "popularity": 6.192,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/queRmW1WkOQd6TRFQ0xROC48s3h.jpg",
+    "release_date": "1962-08-31",
+    "runtime": 110,
+    "tagline": "",
+    "title": "Mamma Roma",
+    "vote_average": 7.9,
+    "vote_count": 235,
+    "external_ids": { "imdb_id": "tt0056215" },
+    "certification": "6",
+    "directors": [{ "id": 5970, "name": "Pier Paolo Pasolini" }],
+    "writers": [{ "id": 5970, "name": "Pier Paolo Pasolini" }],
+    "cast": [
+      { "id": 4421, "name": "Anna Magnani" },
+      { "id": 224811, "name": "Ettore Garofolo" },
+      { "id": 44860, "name": "Franco Citti" }
+    ],
+    "movie_id": 47796
+  },
+  {
+    "budget": 7000000,
+    "genres": ["Comedy", "Drama", "Romance"],
+    "original_language": "Italian",
+    "overview": "Tommaso is the youngest son of the Cantones, a large, traditional southern Italian family operating a pasta-making business since the 1960s. On a trip home from Rome, where he studies literature and lives with his boyfriend, Tommaso decides to tell his parents the truth about himself. But when he is finally ready to come out in front of the entire family, his older brother Antonio ruins his plans.",
+    "popularity": 6.187,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gYSXvD0sB2MRXF5YreSWtdcW4Jv.jpg",
+    "release_date": "2010-02-12",
+    "revenue": 8220215,
+    "runtime": 110,
+    "tagline": "The only thing more complicated than love is family.",
+    "title": "Loose Cannons",
+    "vote_average": 7.4,
+    "vote_count": 559,
+    "external_ids": { "imdb_id": "tt1405810" },
+    "certification": "16",
+    "directors": [{ "id": 72197, "name": "Ferzan Özpetek" }],
+    "writers": [{ "id": 72197, "name": "Ferzan Özpetek" }],
+    "cast": [
+      { "id": 124618, "name": "Nicole Grimaudo" },
+      { "id": 59270, "name": "Riccardo Scamarcio" },
+      { "id": 24288, "name": "Alessandro Preziosi" }
+    ],
+    "movie_id": 40794
+  },
+  {
+    "genres": "Comedy",
+    "original_language": "Italian",
+    "overview": "Fugitive convict Aldo ends up in a car in Milan with policeman Giacomo and failed toymaker Giovanni, taking them hostages. While hunted down by the police over around half of Italy, they will eventually become friends.",
+    "popularity": 6.166,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tyIxqze2fSqXif2nrNTmOumXRE9.jpg",
+    "release_date": "1998-12-18",
+    "runtime": 108,
+    "tagline": "",
+    "title": "That's Life",
+    "vote_average": 7.5,
+    "vote_count": 1008,
+    "external_ids": { "imdb_id": "tt0166556" },
+    "certification": "T",
+    "directors": [
+      { "id": 120018, "name": "Massimo Venier" },
+      { "id": 120019, "name": "Aldo Baglio" },
+      { "id": 120020, "name": "Giovanni Storti" },
+      { "id": 120025, "name": "Giacomo Poretti" }
+    ],
+    "writers": [
+      { "id": 120018, "name": "Massimo Venier" },
+      { "id": 120019, "name": "Aldo Baglio" },
+      { "id": 120020, "name": "Giovanni Storti" },
+      { "id": 120025, "name": "Giacomo Poretti" },
+      { "id": 342116, "name": "Giorgio Gherarducci" },
+      { "id": 2224269, "name": "Luigi Vignali" },
+      { "id": 2224270, "name": "Michele Mozzati" },
+      { "id": 3001961, "name": "Graziano Ferrari" }
+    ],
+    "cast": [
+      { "id": 120019, "name": "Aldo Baglio" },
+      { "id": 120020, "name": "Giovanni Storti" },
+      { "id": 120025, "name": "Giacomo Poretti" }
+    ],
+    "movie_id": 38396
+  },
+  {
+    "genres": ["Drama", "Comedy"],
+    "original_language": "French",
+    "overview": "An Iranian family survives the shah and the ayatollah and moves to France. This story follows the family through it all. Despite the politics, revolution, prison, beatings, assassinations and suicides this is a comedy.",
+    "popularity": 6.053,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aPYtRdJwt85OgZIUBZ5tHgmfyCO.jpg",
+    "release_date": "2015-11-04",
+    "runtime": 102,
+    "tagline": "",
+    "title": "All Three of Us",
+    "vote_average": 7.6,
+    "vote_count": 360,
+    "external_ids": { "imdb_id": "tt4057632" },
+    "certification": "12",
+    "directors": [{ "id": 1333461, "name": "Kheiron" }],
+    "writers": [{ "id": 1333461, "name": "Kheiron" }],
+    "cast": [
+      { "id": 1333461, "name": "Kheiron" },
+      { "id": 23383, "name": "Leïla Bekhti" },
+      { "id": 47337, "name": "Gérard Darmon" }
+    ],
+    "trailer_yt": "IS-RD1CHEvE",
+    "movie_id": 364137
+  },
+  {
+    "budget": 8000000,
+    "genres": "Thriller",
+    "original_language": "Italian",
+    "overview": "Irena, a Ukrainian woman coming to Italy looking for a job as a maid. She does everything she can to become a beloved nanny for an adorable little girl, Thea. However, that is just the very beginning of her unknown journey.",
+    "popularity": 6.399,
+    "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/piBn5ydvdfCHSfys6N1A7LNwQft.jpg",
+    "release_date": "2006-10-09",
+    "runtime": 118,
+    "tagline": "",
+    "title": "The Unknown Woman",
+    "vote_average": 7.3,
+    "vote_count": 208,
+    "external_ids": { "imdb_id": "tt0494271" },
+    "certification": "16",
+    "directors": [{ "id": 65314, "name": "Giuseppe Tornatore" }],
+    "writers": [{ "id": 65314, "name": "Giuseppe Tornatore" }],
+    "cast": [
+      { "id": 67320, "name": "Kseniya Rappoport" },
+      { "id": 25819, "name": "Michele Placido" },
+      { "id": 8776, "name": "Claudia Gerini" }
+    ],
+    "trailer_yt": "DblDnJ5k1rk",
+    "movie_id": 10886
+  }
+]
